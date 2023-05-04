@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Secretaria General.</string>
+    <string name="affirmation1">Secretaria de Decanato.</string>
+    <string name="affirmation2">Secretaria de Gobierno.</string>
+    <string name="affirmation3">Secretaria de Marina.</string>
+    <string name="affirmation4">Secretaria de Turismo.</string>
+    <string name="affirmation5">Secretaria de Salud.</string>
+    <string name="affirmation6">Secretaria de Marketing.</string>
+    <string name="affirmation7">Secretaria de Estado.</string>
+    <string name="affirmation8">Secretaria de Seguridad.</string>
+    <string name="affirmation9">Secretaria del Estado.</string>
+    <string name="affirmation10">Secretaria de Economia.</string>
+</resources>
